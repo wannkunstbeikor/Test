@@ -23,6 +23,45 @@ body:
     description: To get the version information, press "Help" on the menu bar and press "About".
   validations:
     required: true
+    
+- type: dropdown
+  attributes:
+    label: Game
+    description: To get the version information, press "Help" on the menu bar and press "About".
+    multiple: true
+    options:
+      - Anthem
+      - Battlefield 1
+      - Battlefield 4
+      - Battlefield 2042
+      - Battlefield Hardline
+      - Battlefield V
+      - DragonAge Inquisition
+      - Fifa 17
+      - Fifa 18
+      - Fifa 19
+      - Fifa 20
+      - Fifa 21
+      - Fifa 22
+      - Madden 19
+      - Madden 20
+      - Madden 22
+      - Madden 23
+      - MassEffect Andromeda
+      - MirrorsEdge Catalyst
+      - Need for Speed
+      - Need for Speed Online
+      - Need for Speed Edge
+      - Need for Speed Heat
+      - Need for Speed Rivals
+      - Plant vs Zombies GW1
+      - Plant vs Zombies GW2
+      - Plant vs Zombies BfN
+      - Star Wars Battlefront
+      - Star Wars Battlefront II
+      - Star Wars Squadrons
+  validations:
+    required: true
 
 - type: textarea
   attributes:
