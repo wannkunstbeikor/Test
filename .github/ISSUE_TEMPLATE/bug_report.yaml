@@ -27,6 +27,7 @@ body:
 - type: dropdown
   attributes:
     label: Frosty
+    multiple: true
     options:
       - Editor
       - ModManager
