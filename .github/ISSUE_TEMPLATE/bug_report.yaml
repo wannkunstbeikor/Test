@@ -1,5 +1,5 @@
 name: Bug report
-description: Issues and bugs for x64dbg.
+description: Issues and bugs for Frosty
 labels: 
 - bug
 - pending reproduction
