@@ -26,8 +26,7 @@ body:
     
 - type: dropdown
   attributes:
-    label: Game
-    description: To get the version information, press "Help" on the menu bar and press "About".
+    label: Games
     multiple: true
     options:
       - Anthem
