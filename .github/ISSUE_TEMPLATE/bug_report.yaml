@@ -19,10 +19,17 @@ body:
 - type: input
   attributes:
     label: Frosty Version
-    placeholder: 1.0.6.1 Editor
+    placeholder: 1.0.6.1
     description: To get the version information, press "Help" on the menu bar and press "About".
   validations:
     required: true
+    
+- type: dropdown
+  attributes:
+    label: Frosty
+    options:
+      - Editor
+      - ModManager
     
 - type: dropdown
   attributes:
