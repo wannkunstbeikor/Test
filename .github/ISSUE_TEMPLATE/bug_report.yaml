@@ -36,9 +36,6 @@ body:
     label: Steps to reproduce
     description: Please describe in small and detailed steps on how to reproduce the issue.
     placeholder: Steps required to reproduce the issue.
-      1. 
-      2. 
-      3. 
   validations:
     required: true
 
